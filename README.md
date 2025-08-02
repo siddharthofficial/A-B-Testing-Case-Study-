@@ -76,5 +76,5 @@ A **2-sample Z-test for proportions** was used to compare the CTRs. The followin
 ## ✍️ Author
 
 Siddharth Jain  
-Connect with me on [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/siddharth-jain-979a35253/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth-jain-979a35253/)
 
